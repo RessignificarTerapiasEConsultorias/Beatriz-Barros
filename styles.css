@@ -142,3 +142,6 @@ footer .copy{letter-spacing:.1em;text-transform:none;opacity:.6}
   .reveal{opacity:1;transform:none;transition:none}
   .track,.wa-float::before,.scroll::after{animation:none}
 }
+
+.final-inner .btn-lg{margin:0 .4rem .8rem}
+footer .ig{color:var(--gold2);transition:.3s}footer .ig:hover{color:var(--ivory)}
